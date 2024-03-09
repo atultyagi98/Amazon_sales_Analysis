@@ -28,7 +28,6 @@ SELECT *
 FROM sales;
 
 
-
 -- Add the time_of_day column
 SELECT
 	time,
